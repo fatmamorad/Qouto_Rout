@@ -1,0 +1,24 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.quto{
+    height: 100vh;
+    width: 100%;
+    background-color: aliceblue;
+}
+.info-quto{
+    font-size: 30px;
+}
+.qoute-head{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 80px;
+    font-weight: 900;
+    color: #000;
+}
+.pressButton::click{
+      background-color: bisque;
+    
+}
