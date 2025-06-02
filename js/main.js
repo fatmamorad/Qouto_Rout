@@ -16,45 +16,30 @@ var Qotes=[
     "Name":"― Albert Einstein"
   },
   { 
-    "quto":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-    "Name":"― Albert Einstein"
+    "quto":"“A room without books is like a body without a soul.”",
+    "Name":"― Marcus Tullius Cicero"
   },
   { 
-    "quto":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-    "Name":"― Albert Einstein"
+    "quto":"“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
+    "Name":"― Bernard M. Baruch"
   },
   { 
-    "quto":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-    "Name":"― Albert Einstein"
+    "quto":"“You've gotta dance like there's nobody watching,Love like you'll never be hurt,Sing like there's nobody listening,And live like it's heaven on earth.”",
+    "Name":"― William W. Purkey"
   },
   { 
-    "quto":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-    "Name":"― Albert Einstein"
+    "quto":"“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+    "Name":"― Dr. Seuss"
   },
   { 
-    "quto":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-    "Name":"― Albert Einstein"
+    "quto":"“You only live once, but if you do it right, once is enough.”",
+    "Name":"― Mae West"
   },
   { 
-    "quto":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-    "Name":"― Albert Einstein"
+    "quto":"“If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”",
+    "Name":"― J.K. Rowling, Harry Potter and the Goblet of Fire"
   },
-  { 
-    "quto":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-    "Name":"― Albert Einstein"
-  },
-  { 
-    "quto":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-    "Name":"― Albert Einstein"
-  },
-  { 
-    "quto":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-    "Name":"― Albert Einstein"
-  },
-  { 
-    "quto":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-    "Name":"― Albert Einstein"
-  }
+  
 ]
 function getquto(){
 
